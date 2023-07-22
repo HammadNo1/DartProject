@@ -31,7 +31,7 @@ void main() {
     Course(
       "c1",
       "Introduction to Programming",
-      "John Doe",
+      "Hammad",
       ["Introduction Slides", "Getting Started Guide"],
       ["Basic Quiz", "Functions Quiz"],
       {},
@@ -39,7 +39,7 @@ void main() {
     Course(
       "c2",
       "Web Development Basics",
-      "Jane Smith",
+      "Jhanzaib",
       ["HTML Basics", "CSS Basics"],
       ["HTML Quiz", "CSS Quiz"],
       {},
